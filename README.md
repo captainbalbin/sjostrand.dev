@@ -1,2 +1,9 @@
 # sjostrand.dev
-My portfolio website. Under heavy development.
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/captainbalbin/sjostrand.dev)
+
+
+My portfolio website. _Under heavy development._
+
+
+
