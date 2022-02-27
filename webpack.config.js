@@ -6,10 +6,7 @@ module.exports = {
         path: path.resolve(__dirname, 'build'),
     },
     resolve: {
-        modules: [path.join(__dirname, 'src'), 'node_modules'],
-        alias: {
-            react: path.join(__dirname, 'node_modules', 'react'),
-        },
+        extensions: ['*', '.js', '.jsx'],
     },
     module: {
         rules: [
